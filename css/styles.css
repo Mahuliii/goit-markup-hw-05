@@ -519,7 +519,7 @@ margin-top: 24px;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: "Roboto", sans-serif;
+    font-family: Roboto, sans-serif;
     color:  #FFF;
     text-align: center;
     font-family: Roboto;
@@ -655,7 +655,7 @@ margin-top: 24px;
 }
 .review-form-field-wrapper {
     margin-bottom: 8px;
-    margin-bottom: 16px;
+
 }
 
 .review-form-comment {

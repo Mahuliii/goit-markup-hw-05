@@ -480,6 +480,62 @@ margin-top: 24px;
 .team-icon-low {
     fill: #f4f4fd;
  }
+
+ /* ================FOOTER FORM======================== */
+.foter-subscribe {
+    margin-bottom: 16px;
+    color:  #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.foter-subscribe-form {
+    display: flex;
+    gap: 24px;
+}
+
+.subscribe-input {
+    width: 264px;
+    height: 40px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    background-color: transparent;
+    color:  #FFF;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    padding-left: 16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.subscribe-input::placeholder{
+    color: #ffffff;
+}
+.subscribe-button{
+    min-width: 165px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    color:  #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    background-color: #4D5AE5;
+    border: none;
+    border-radius: 4px;
+}
+.subscribe-button-svg {
+    margin-left: 16px;
+}
+
+ /* ================FOOTER FORM======================== */
  /* =============BACKDROP STYLES======================= */
  .backdrop{
     position: fixed;

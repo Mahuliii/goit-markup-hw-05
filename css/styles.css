@@ -522,7 +522,6 @@ margin-top: 24px;
     font-family: 'Roboto', sans-serif;
     color:  #FFF;
     text-align: center;
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -654,7 +653,7 @@ margin-top: 24px;
     stroke: #4D5AE5;
 }
 .review-form-field-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 
 }
 

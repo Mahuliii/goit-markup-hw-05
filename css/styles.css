@@ -521,7 +521,6 @@ margin-top: 24px;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
     color:  #FFF;
-    text-align: center;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -682,7 +681,7 @@ margin-top: 24px;
 }
 
 .review-form-checkbox-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .review-form-checkbox-label {
